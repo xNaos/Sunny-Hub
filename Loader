@@ -4,9 +4,9 @@ end
 
 local games = {
 	[72829404259339] = 'https://raw.githubusercontent.com/xNaos/Sunny-Hub/refs/heads/main/Anime%20Rangers%20X', -- ARXS
-	[7449423635] = '',
-	[2753915549] = '',
-	[4442272183] = '',
+	[7449423635] = 'https://raw.githubusercontent.com/xNaos/Sunny-Hub/refs/heads/main/Blox%20Fruits%20Beta',
+	[2753915549] = 'https://raw.githubusercontent.com/xNaos/Sunny-Hub/refs/heads/main/Blox%20Fruits%20Beta',
+	[4442272183] = 'https://raw.githubusercontent.com/xNaos/Sunny-Hub/refs/heads/main/Blox%20Fruits%20Beta',
 }
 
 if game.PlaceId == 72829404259339 or 2753915549 or 4442272183 or 7449423635 then
