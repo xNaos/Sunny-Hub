@@ -4,9 +4,12 @@ end
 
 local games = {
 	[72829404259339] = 'https://raw.githubusercontent.com/xNaos/Sunny-Hub/refs/heads/main/Anime%20Rangers%20X', -- ARXS
+	[7449423635] = '',
+	[2753915549] = '',
+	[4442272183] = '',
 }
 
-if game.PlaceId == 72829404259339 then
+if game.PlaceId == 72829404259339 or 2753915549 or 4442272183 or 7449423635 then
 	loadstring(game:HttpGet(games[game.PlaceId]))()
 end
 
