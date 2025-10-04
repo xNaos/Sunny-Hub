@@ -7,9 +7,11 @@ local games = {
 	[7449423635] = 'https://raw.githubusercontent.com/xNaos/Sunny-Hub/refs/heads/main/Blox%20Fruits%20Beta',
 	[2753915549] = 'https://raw.githubusercontent.com/xNaos/Sunny-Hub/refs/heads/main/Blox%20Fruits%20Beta',
 	[4442272183] = 'https://raw.githubusercontent.com/xNaos/Sunny-Hub/refs/heads/main/Blox%20Fruits%20Beta',
+	[16277809958] = 'https://raw.githubusercontent.com/xNaos/Sunny-Hub/refs/heads/main/Anime%20Vanguard',
+	[16146832113] = 'https://raw.githubusercontent.com/xNaos/Sunny-Hub/refs/heads/main/Anime%20Vanguard',
 }
 
-if game.PlaceId == 72829404259339 or 2753915549 or 4442272183 or 7449423635 then
+if game.PlaceId == 72829404259339 or 2753915549 or 4442272183 or 7449423635 or 16146832113 or 16277809958 then
 	loadstring(game:HttpGet(games[game.PlaceId]))()
 end
 
