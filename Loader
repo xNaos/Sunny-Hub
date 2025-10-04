@@ -3,7 +3,7 @@ if not game:IsLoaded() then
 end
 
 local games = {
-	[72829404259339] = 'https://api.luarmor.net/files/v3/loaders/50b56f5d18bdcd46ae9b9f62fc387152.lua', -- ARXS
+	[72829404259339] = 'https://raw.githubusercontent.com/xNaos/Sunny-Hub/refs/heads/main/Anime%20Rangers%20X', -- ARXS
 }
 
 if game.PlaceId == 72829404259339 then
